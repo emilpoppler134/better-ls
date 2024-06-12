@@ -6,7 +6,6 @@ This project features a C program designed to traverse and sort the contents of 
 The program employs the Quicksort algorithm, known for its efficiency and simplicity, to organize files and directories based on several criterias. Additionally, the program utilizes a hash map to assign appropriate icons to files based on their extensions, enhancing the user experience by providing visual cues for different file types.
 
 ## Requirements
-- Unix-based operating system
 - Nerd font [Link](https://github.com/ryanoasis/nerd-fonts)
 
 ## Recommendations
